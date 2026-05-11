@@ -1,5 +1,5 @@
 # 🛡️ Top OS Vulnerabilities Report 2024-2026
-   A curated analysis of the most critical vulnerabilities in Windows, Linux, macOS, and Android (2024-2026). Includes CVE details, PoC, impact, and mitigation for SOC/Blue Team &amp; Pentesters.
+   A curated analysis of the most critical vulnerabilities in Windows, Linux, macOS, and Android (2026). Includes CVE details, PoC, impact, and mitigation for SOC/Blue Team &amp; Pentesters.
    
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
